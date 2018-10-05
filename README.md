@@ -10,5 +10,5 @@ The training set consists of 28,709 examples. The public test set used for the l
 This dataset was prepared by Pierre-Luc Carrier and Aaron Courville, as part of an ongoing research project. They have graciously provided the workshop organizers with a preliminary version of their dataset to use for this contest.
 
 # gen_record.py
-This file will convert the data in csv format to images.
+This file will convert the data from csv format to images.
 
