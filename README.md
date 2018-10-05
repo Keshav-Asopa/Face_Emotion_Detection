@@ -12,3 +12,6 @@ This dataset was prepared by Pierre-Luc Carrier and Aaron Courville, as part of 
 # gen_record.py
 This file will convert the data from csv format to images.
 
+# Link of dataset
+https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
+
